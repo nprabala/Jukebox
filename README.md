@@ -1,6 +1,10 @@
 # Mixtape
 An app for pairing chord progressions to your voice.
 
+## Architecture
+
+Front-end, Back-end + ML Models
+
 
 ## Relevant links
 Melody + Chord Progression dataset: 
